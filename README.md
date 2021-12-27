@@ -1,5 +1,5 @@
 - 👋 Milad Momeni
-- 👀 Python|Pytorch|Django|ELK|Docker
+- 👀 Python | Pytorch | Tensorflow | Django | ELK | Docker
 - 🌱 WorkingOn: ML in IIR/IV
 - 💞️ Research Interests: Machine Learning, Computer Vision, Interactive Information Retrival (IIR), Information Visualization (IV)
 - 📫 Contact me: https://www.linkedin.com/in/milad-momeni-20/
