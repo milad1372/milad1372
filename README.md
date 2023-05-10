@@ -2,7 +2,7 @@ Milad Momeni - Machine Learning & Software Engineer
 
 👨‍💻 Skills: Python, PyTorch, TensorFlow, Django, ELK Stack, MERN Stack, Docker
 
-🚀 Current Projects: Focused on Machine Learning applications in Interactive Information Retrieval (IIR) and Information Visualization (IV)
+🚀 Current Projects: Focused on #Machine_Learning applications in #Interactive_Information_Retrieval and #Information_Visualization
 
 🔬 Research Interests: Machine Learning, Computer Vision, Interactive Information Retrieval, Information Visualization
 
